@@ -58,7 +58,7 @@ _cf. 이때 argument 객체 생성, this 바인딩 결정_
 
 - 코드 실행 순서는 **실행 컨텍스트 스택**으로 관리한다.
 - 실행 컨텍스트는 스택 자료구조로 관리된다.
-  ![EC_stack][https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0b24eb19-ea4a-47cd-b338-009e1089b82f%2FUntitled.png&blockId=5e7f7b76-392d-4d85-aa3c-bfc23e324b1d]
+- ![EC_stack][https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0b24eb19-ea4a-47cd-b338-009e1089b82f%2FUntitled.png&blockId=5e7f7b76-392d-4d85-aa3c-bfc23e324b1d]
 
 ## 23.5 렉시컬 환경
 
